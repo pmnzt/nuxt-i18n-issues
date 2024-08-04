@@ -1,8 +1,8 @@
 <script setup>
 const switchLocalePath = useSwitchLocalePath()
 
-console.log(switchLocalePath('en')) // empty string
-console.log(switchLocalePath('ar')) // empty string
+console.log(switchLocalePath('en'))  
+console.log(switchLocalePath('ar'))  
 </script>
 
 <template>
